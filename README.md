@@ -7,3 +7,4 @@
 
 🤔 I’m looking for help with: Understanding advanced Python concepts and best practices.
 
+![ngoding-mulu](https://github.com/user-attachments/assets/2bae2548-76b3-459b-b565-9d5ff7913948)
